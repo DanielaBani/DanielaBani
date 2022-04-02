@@ -3,7 +3,7 @@
 - 🌱 Actualmente estoy aprendiendo desarrollo frontend con JavaScript y React, además de continuar con mis estudios en Análisis de Sistemas.
 - 💞️ Me encantaría sumarme a un equipo de trabajo donde nutrirme y crecer en esta industria.
 - 👉 Pronto estaré subiendo proyectos personales aquí para que puedan verlos.
-- 📫 Pueden encontrarme en LinkedIn en: https://www.linkedin.com/in/daniela-bani-arg/
+- 📫 Pueden encontrarme en LinkedIn en: [@daniela-bani-arg](https://www.linkedin.com/in/daniela-bani-arg/)
 
 
 <!---
